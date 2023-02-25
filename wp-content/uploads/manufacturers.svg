@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>.cls-1{fill:#630a53;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Group_1720" data-name="Group 1720">
+        <g id="Group_696" data-name="Group 696">
+          <g id="Ellipse_157-2" data-name="Ellipse 157-2">
+            <circle class="cls-1" cx="300" cy="300" r="300"></circle>
+          </g>
+        </g>
+        <g id="Group_697" data-name="Group 697">
+          <g id="Path_1133" data-name="Path 1133">
+            <path class="cls-2" d="M452.23,454.59l-310.58-.45V268.39l76.88,28.47V266.8L294,296v-27.6l74.12,27.34,12.56-148.64,52.16-1.9ZM155.65,440.16l281.68.41L419.71,159.68l-26.13.95-13.07,154.6L308,288.47v27.95l-75.46-29.19V317L155.65,288.5Zm262.67-17.07H370.15V356.43h48.17Zm-34.17-14h20.17V370.43H384.15Zm-32,14H304V356.43h48.16Zm-34.16-14h20.16V370.43H318Zm-32,14H237.75V356.43h48.16Zm-34.16-14h20.16V370.43H251.75Zm-34.16,14H169.42V356.43h48.17Zm-34.17-14h20.17V370.43H183.42Z"></path>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

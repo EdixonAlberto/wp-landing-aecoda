@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>.cls-1{fill:#fff;}.cls-2{fill:#006995;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Line_655" data-name="Line 655">
+        <rect class="cls-1" x="128.04" y="126.82" width="57.35" height="5.98"></rect>
+      </g>
+      <g id="Line_656" data-name="Line 656">
+        <rect class="cls-1" x="128.04" y="153.11" width="57.35" height="5.98"></rect>
+      </g>
+      <g id="Line_657" data-name="Line 657">
+        <rect class="cls-1" x="128.04" y="179.39" width="57.35" height="5.98"></rect>
+      </g>
+      <g id="Rectangle_1248" data-name="Rectangle 1248">
+        <path class="cls-1" d="M181.21,104.12H135.8V76.64h45.41Zm-39.43-6h33.45V82.62H141.78Z"></path>
+      </g>
+      <g id="Ellipse_285" data-name="Ellipse 285">
+        <g id="Ellipse_404" data-name="Ellipse 404">
+          <circle class="cls-2" cx="150" cy="150" r="150"></circle>
+        </g>
+      </g>
+      <g id="Group_1155" data-name="Group 1155">
+        <g id="Path_1310" data-name="Path 1310">
+          <path class="cls-1" d="M209.19,232.44h-112V77h33.4v7.23H104.37v141H202v-141H174.08V77h35.11Z"></path>
+        </g>
+      </g>
+      <g id="Group_1156" data-name="Group 1156">
+        <g id="Rectangle_1285" data-name="Rectangle 1285">
+          <rect class="cls-1" x="122.44" y="117.38" width="57.83" height="6.03"></rect>
+        </g>
+      </g>
+      <g id="Group_1157" data-name="Group 1157">
+        <g id="Rectangle_1286" data-name="Rectangle 1286">
+          <rect class="cls-1" x="122.44" y="143.89" width="57.83" height="6.03"></rect>
+        </g>
+      </g>
+      <g id="Group_1158" data-name="Group 1158">
+        <g id="Rectangle_1287" data-name="Rectangle 1287">
+          <rect class="cls-1" x="122.44" y="170.4" width="57.83" height="6.03"></rect>
+        </g>
+      </g>
+      <g id="Group_1159" data-name="Group 1159">
+        <g id="Rectangle_1288" data-name="Rectangle 1288">
+          <rect class="cls-1" x="122.44" y="196.9" width="57.83" height="6.03"></rect>
+        </g>
+      </g>
+      <g id="Group_1160" data-name="Group 1160">
+        <g id="Path_1311" data-name="Path 1311">
+          <path class="cls-1" d="M176.06,94.5H130.27V66.79h45.79Zm-39.76-6H170V72.82H136.3Z"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

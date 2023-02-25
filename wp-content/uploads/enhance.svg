@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>.cls-1{fill:#045b80;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Ellipse_284" data-name="Ellipse 284">
+        <g id="Ellipse_403" data-name="Ellipse 403">
+          <circle class="cls-1" cx="150" cy="150" r="150"></circle>
+        </g>
+      </g>
+      <g id="Group_1187" data-name="Group 1187">
+        <g id="Group_1186" data-name="Group 1186">
+          <path class="cls-2" d="M68,223.46V127.62l40,14.84V126.81L147.36,142V127.63l38.58,14.23,6.55-77.61,26.45-1L229,223.69Zm154.07-6.29L212.85,70l-14.33.52L191.72,151l-37.83-14v14.54l-39.31-15.21v15.5L74.53,137v80Zm-35-7.28V173.34h24.32v36.55Zm17.8-6.52V179.85H193.58v23.52Zm-52.29,6.52V173.34h24.32v36.55Zm17.8-6.52V179.85H159.09v23.52Zm-52.29,6.52V173.34H142.4v36.55Zm17.8-6.52V179.85H124.6v23.52Zm-53.41,6.52V173.34H106.8v36.55Zm17.81-6.52V179.85H89v23.52Z"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

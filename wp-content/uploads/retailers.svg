@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>.cls-1{fill:#ff7f12;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g id="Group_1710" data-name="Group 1710">
+        <g id="Path_1542-2" data-name="Path 1542-2">
+          <path class="cls-1" d="M300,0C465.69,0,600,134.31,600,300S465.69,600,300,600,0,465.69,0,300H0C0,134.31,134.31,0,300,0Z"></path>
+        </g>
+        <g id="Group_689" data-name="Group 689">
+          <g id="Path_1126" data-name="Path 1126">
+            <path class="cls-2" d="M438.63,444.09H388.5v-107H340.76v107H160V287.27H438.63Zm-36.13-14h22.13V301.27H174V430.09H326.76v-107H402.5ZM307.57,411.9H192.23V322.4H307.57Zm-101.34-14h87.34V336.4H206.23Z"></path>
+          </g>
+          <g id="Group_688" data-name="Group 688">
+            <g id="Path_1127" data-name="Path 1127">
+              <path class="cls-2" d="M372.7,270H313.39l-3.75-83.2H363Zm-45.93-14H357l-6.42-55.2H324.29Z"></path>
+            </g>
+            <g id="Path_1128" data-name="Path 1128">
+              <path class="cls-2" d="M460,270H401.54L383,186.81H435.5Zm-47.22-14h28.51L425,200.81H400.45Z"></path>
+            </g>
+            <g id="Path_1129" data-name="Path 1129">
+              <path class="cls-2" d="M198.46,270h-58.1l21.21-83.2H217Zm-40.08-14h28.86l12.31-55.2h-27.1Z"></path>
+            </g>
+            <g id="Path_1130" data-name="Path 1130">
+              <path class="cls-2" d="M288.38,270H227.3l9.68-83.2h55.15ZM243,256h32l2.49-55.2h-28Z"></path>
+            </g>
+          </g>
+          <g id="Line_516" data-name="Line 516">
+            <rect class="cls-2" x="165.66" y="155.89" width="267.32" height="14"></rect>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
