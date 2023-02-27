@@ -2,6 +2,8 @@
 
 Landing que ofrece visibilidad sobre objetivos y proyectos de la Asociación Contra el Desperdicio de Alimentos.
 
+**DEMO** &#x279c; [https://aecoda-demo.netlify.app/](https://aecoda-demo.netlify.app/)
+
 ## Preparar Entorno
 
 - Instalar LAMP (Apache, MySql, PHP) en el entorno del servidor.
