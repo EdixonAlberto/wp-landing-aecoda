@@ -1,23 +1,7 @@
-.has-global-padding.is-layout-constrained.entry-content.wp-block-post-content {
-  margin: 0;
-  padding: 0;
-}
-
-.has-global-padding.is-layout-constrained.entry-content.wp-block-post-content>* {
-  all: revert !important;
-}
-
 .wp-site-blocks {
   padding: 0;
 }
 
-.is-layout-flow.wp-block-group {
-  height: auto !important;
-  margin: 0 !important;
-}
-
-.wp-block-template-part,
-.wp-block-template-part,
-.has-global-padding.is-layout-constrained.wp-block-group {
-  display: none;
+.wp-site-blocks>*+* {
+  margin-block-start: 0;
 }

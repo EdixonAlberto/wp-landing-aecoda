@@ -1,3 +1,5 @@
+@import '/wp-content/uploads/normalize.css';
+
 /*! Bootstrap v4.5.3 (https://getbootstrap.com/) Copyright 2011-2020 The Bootstrap Authors Copyright 2011-2020 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE) */
 :root {
   --gray: #6d8089;
@@ -28159,11 +28161,13 @@ button.icon-media:focus {
 }
 
 .subnav {
-  position: relative;
+  width: 100%;
+  position: sticky;
+  top: 111px;
   background-color: #168374;
   color: #fff;
   z-index: 999;
-  width: 100%;
+  transform: translateZ(0);
   -webkit-transform: translateZ(0)
 }
 
@@ -28405,6 +28409,11 @@ button.icon-media:focus {
     padding-top: 2rem;
     padding-bottom: 2rem
   }
+
+  #primarynav .primary-nav-links.navbar-nav>li.nav-item .dropdown-menu .row {
+    flex-wrap: nowrap;
+  }
+
 
   #primarynav .primary-nav-links.navbar-nav>li.nav-item .dropdown-menu:before {
     content: "";
