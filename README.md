@@ -20,9 +20,9 @@ Landing que ofrece visibilidad sobre objetivos y proyectos de la Asociación Con
 - Iniciar `phpMyAdmin` para restaurar la base de datos importanto el siguiente archivo [aecoda_db.sql](./docs/aecoda_db.sql)
 
 - Ingresar desde el navegador a la ruta [http://aecoda.com/wp-admin](http://aecoda.com/wp-admin) para iniciar sesión en el CMS con las siguientes credenciales:
-```txt
-Usuario:    admin
-Contraseña: !Ad*uWWL##nbj0u(Z&
+```sh
+# Usuario:    admin
+# Contraseña: !Ad*uWWL##nbj0u(Z&
 ```
 
 ## Editar Landing (Desarrollo)
